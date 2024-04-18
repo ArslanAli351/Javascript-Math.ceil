@@ -1,0 +1,19 @@
+div{
+ 
+    height: 400px;
+ display: flex;
+justify-content: center;
+align-items: center;
+
+}
+div img{
+    height: 90px;
+
+}
+
+
+.oneimg{
+    border: 10px solid red;
+    margin-top: 450px;
+    margin-left: 10px;
+}
